@@ -11,7 +11,7 @@ const Footer = () => {
               <div className="w-8 h-8 rounded-lg bg-primary/10 flex items-center justify-center">
                 <Zap className="w-5 h-5 text-primary" />
               </div>
-              <span className="font-bold text-lg">LV Electric</span>
+              <span className="font-bold text-lg">BrightView Systems</span>
             </div>
             <p className="text-sm text-muted-foreground">
               Professional low-voltage electrical solutions for homes and businesses across Long Island.
@@ -50,7 +50,7 @@ const Footer = () => {
         </div>
 
         <div className="pt-8 border-t border-border text-center text-sm text-muted-foreground">
-          © {new Date().getFullYear()} LV Electric. All rights reserved.
+          © {new Date().getFullYear()} BrightView Systems. All rights reserved.
         </div>
       </div>
     </footer>
