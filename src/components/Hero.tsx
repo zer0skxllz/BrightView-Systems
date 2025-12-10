@@ -25,7 +25,7 @@ const Hero = () => {
         {/* Badge */}
         <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full border border-primary/30 bg-primary/5 mb-8 animate-fade-in">
           <Zap className="w-4 h-4 text-primary" />
-          <span className="text-sm text-muted-foreground">Long Island's Trusted Low-Voltage Experts</span>
+          <span className="text-sm text-muted-foreground">BrightView Systems — Long Island's Trusted Low-Voltage Experts</span>
         </div>
 
         {/* Main headline */}
